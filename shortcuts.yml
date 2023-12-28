@@ -1,6 +1,14 @@
 # Documentation:
 # https://trovu.net/docs/shortcuts/
 
+sx 1:
+  url: https://searx.tiekoetter.com/search?q=<query>
+  title: Searx
+
+gx 1:
+  url: https://gruble.de/search?q=<query>
+  title: Searx on Gruble
+
 examplekeyword 0: http://www.example.com/
 examplekeyword 1: http://www.example.com/?q=<query>
 examplekeyword 2:
